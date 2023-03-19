@@ -1,4 +1,6 @@
 import './App.css';
+import { BrowserRouter } from "react-router-dom";
+import {About,Contact,Navbar,Tech,Works,Feedbacks,Hero, StartsConvas} from './components'
 
 function App() {
   return (
